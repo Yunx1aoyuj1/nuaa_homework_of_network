@@ -54,7 +54,7 @@ def search():  # 在文本框内容最后接着插入输入内容
         else:
             text1 = text1 + text + '\n'
         if(i.text == ""):
-            print("商店")
+            print("没商店")
         else:
             text1 = text1 + i.text + '\n'
         text1 = text1 + '\n'
