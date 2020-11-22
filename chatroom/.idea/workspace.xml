@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c0ba68a1-cc15-4d95-8021-7324b4798bfa" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/monitor4all/springbootwebsocketdemo/redis/RedisListenerBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/monitor4all/springbootwebsocketdemo/redis/RedisListenerBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/monitor4all/springbootwebsocketdemo/redis/RedisListenerHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/monitor4all/springbootwebsocketdemo/redis/RedisListenerHandle.java" afterDir="false" />
-    </list>
+    <list default="true" id="c0ba68a1-cc15-4d95-8021-7324b4798bfa" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +64,7 @@
       <workItem from="1605973745368" duration="721000" />
       <workItem from="1606009279515" duration="211000" />
       <workItem from="1606009738131" duration="43000" />
+      <workItem from="1606032917657" duration="111000" />
     </task>
     <servers />
   </component>
@@ -82,22 +80,22 @@
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="420" y="469" key="EnvironmentVariablesDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1605974328218" />
-    <state width="1871" height="642" key="GridCell.Tab.0.bottom" timestamp="1606009489863">
+    <state width="1870" height="642" key="GridCell.Tab.0.bottom" timestamp="1606033028838">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state width="1871" height="642" key="GridCell.Tab.0.bottom/0.0.2560.1410@0.0.2560.1410" timestamp="1606009489863" />
-    <state width="1871" height="642" key="GridCell.Tab.0.center" timestamp="1606009489863">
+    <state width="1870" height="642" key="GridCell.Tab.0.bottom/0.0.2560.1410@0.0.2560.1410" timestamp="1606033028838" />
+    <state width="1870" height="642" key="GridCell.Tab.0.center" timestamp="1606033028838">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state width="1871" height="642" key="GridCell.Tab.0.center/0.0.2560.1410@0.0.2560.1410" timestamp="1606009489863" />
-    <state width="1871" height="642" key="GridCell.Tab.0.left" timestamp="1606009489863">
+    <state width="1870" height="642" key="GridCell.Tab.0.center/0.0.2560.1410@0.0.2560.1410" timestamp="1606033028838" />
+    <state width="1870" height="642" key="GridCell.Tab.0.left" timestamp="1606033028837">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state width="1871" height="642" key="GridCell.Tab.0.left/0.0.2560.1410@0.0.2560.1410" timestamp="1606009489863" />
-    <state width="1871" height="642" key="GridCell.Tab.0.right" timestamp="1606009489863">
+    <state width="1870" height="642" key="GridCell.Tab.0.left/0.0.2560.1410@0.0.2560.1410" timestamp="1606033028837" />
+    <state width="1870" height="642" key="GridCell.Tab.0.right" timestamp="1606033028838">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state width="1871" height="642" key="GridCell.Tab.0.right/0.0.2560.1410@0.0.2560.1410" timestamp="1606009489863" />
+    <state width="1870" height="642" key="GridCell.Tab.0.right/0.0.2560.1410@0.0.2560.1410" timestamp="1606033028838" />
     <state width="2507" height="660" key="GridCell.Tab.1.bottom" timestamp="1605972935602">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
@@ -118,10 +116,10 @@
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
     <state x="1078" y="527" key="SettingsEditor/0.0.2560.1410@0.0.2560.1410" timestamp="1605972294372" />
-    <state x="785" y="414" key="com.intellij.ide.util.TipDialog" timestamp="1606009738249">
+    <state x="785" y="414" key="com.intellij.ide.util.TipDialog" timestamp="1606033064342">
       <screen x="0" y="0" width="2560" height="1410" />
     </state>
-    <state x="785" y="414" key="com.intellij.ide.util.TipDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1606009738249" />
+    <state x="785" y="414" key="com.intellij.ide.util.TipDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1606033064342" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
