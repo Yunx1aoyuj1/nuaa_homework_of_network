@@ -15,7 +15,6 @@ import java.net.InetAddress;
 
 /**
  * Redis订阅频道属性类
- * @author yangzhendong01
  */
 @Component
 public class RedisListenerBean {
